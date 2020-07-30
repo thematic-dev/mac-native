@@ -1,0 +1,25 @@
+<idea-plugin>
+  <id>mac-native</id>
+  <name>Mac Native Theme</name>
+  <version>0.3</version>
+  <vendor url="https://thematic.dev/">Thematic</vendor>
+
+  <description><![CDATA[
+    A native design for MacOS with a dark and light theme.
+    <br/><br/>
+    Contribute with GitHub: <a href="https://github.com/thematic-dev/mac-native">https://github.com/thematic-dev/mac-native</a>
+    <br/><br/>
+    <img src="https://raw.githubusercontent.com/thematic-dev/mac-native/master/apps/jetbrains/screenshots/mac-native-dark-small.png" border="0" width="320">
+    <br/>
+    <img src="https://raw.githubusercontent.com/thematic-dev/mac-native/master/apps/jetbrains/screenshots/mac-native-light-small.png" border="0" width="320">
+  ]]></description>
+
+  <idea-version since-build="191.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="81674041-88e7-4df3-9507-245f17d087c0" path="/mac-native-light.theme.json"/>
+    <themeProvider id="458f84b0-f6e6-414e-97ce-e166526075f1" path="/mac-native-dark.theme.json"/>
+  </extensions>
+</idea-plugin>
