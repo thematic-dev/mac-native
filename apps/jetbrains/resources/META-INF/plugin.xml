@@ -9,9 +9,9 @@
     <br/><br/>
     Contribute with GitHub: <a href="https://github.com/thematic-dev/mac-native">https://github.com/thematic-dev/mac-native</a>
     <br/><br/>
-    <img src="https://raw.githubusercontent.com/thematic-dev/mac-native/master/apps/jetbrains/screenshots/mac-native-dark-small.png" border="0" width="320">
-    <br/>
     <img src="https://raw.githubusercontent.com/thematic-dev/mac-native/master/apps/jetbrains/screenshots/mac-native-light-small.png" border="0" width="320">
+    <br/>
+    <img src="https://raw.githubusercontent.com/thematic-dev/mac-native/master/apps/jetbrains/screenshots/mac-native-dark-small.png" border="0" width="320">
   ]]></description>
 
   <idea-version since-build="191.0"/>
