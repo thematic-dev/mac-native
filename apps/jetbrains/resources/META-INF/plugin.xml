@@ -1,17 +1,17 @@
 <idea-plugin>
   <id>mac-native</id>
   <name>Mac Native Theme</name>
-  <version>0.3.1</version>
-  <vendor url="https://subtheme.pro/">Subtheme</vendor>
+  <version>0.3.2</version>
+  <vendor url="https://subtheme.pro/">Thematic</vendor>
 
   <description><![CDATA[
     A native design for MacOS with a dark and light theme.
     <br/><br/>
-    Contribute with GitHub: <a href="https://github.com/subtheme/mac-native">https://github.com/subtheme/mac-native</a>
+    Contribute with GitHub: <a href="https://github.com/subtheme-pro/mac-native">https://github.com/subtheme-pro/mac-native</a>
     <br/><br/>
-    <img src="https://raw.githubusercontent.com/subtheme/mac-native/master/apps/jetbrains/screenshots/mac-native-light-small.png" border="0" width="320">
+    <img src="https://raw.githubusercontent.com/subtheme-pro/mac-native/master/apps/jetbrains/screenshots/mac-native-light-small.png" border="0" width="320">
     <br/>
-    <img src="https://raw.githubusercontent.com/subtheme/mac-native/master/apps/jetbrains/screenshots/mac-native-dark-small.png" border="0" width="320">
+    <img src="https://raw.githubusercontent.com/subtheme-pro/mac-native/master/apps/jetbrains/screenshots/mac-native-dark-small.png" border="0" width="320">
   ]]></description>
 
   <idea-version since-build="191.0"/>
