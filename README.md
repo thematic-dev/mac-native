@@ -1,6 +1,6 @@
 # Mac Native
 
-A native design for MacOS, with a dark and light theme.
+A native design for macOS, with a dark and light theme.
 
 Supported apps:
 - [JetBrains](https://github.com/subtheme-pro/native/tree/master/apps/jetbrains)
